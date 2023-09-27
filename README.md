@@ -6,6 +6,7 @@ Add a `.env` file in current path. You can find the following example in `.env.s
 # Make a .env file with the following vars
 MILLICAST_STREAM_NAME=yourStreamName
 MILLICAST_ACCOUNT_ID=yourAccountId
+TOKEN=subscriberToken
 ```
 
 Install all dependencies using:
